@@ -62,12 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lynecathe&theme=radical&show_icons=true" />
-</p>
-
 
 ## 📈 GitHub Metrics
 
@@ -80,7 +74,7 @@
 - ✅ Renforcer mes compétences Blue Team / SOC (alertes, logs, corrélations, MITRE ATT&CK)
 - ✅ Continuer des labs sur TryHackMe & Root-Me
 - ✅ Documenter mes projets sécurité sur GitHub et mon portfolio
-- 🎯 Trouver une alternance en cybersécurité à partir de Septembre 2025
+- 🎯 Trouver une alternance en cybersécurité à partir de Septembre 2026
 - ⚛️ Approfondir React (gestion d’état, hooks, routing, intégration back-end)
 
 ---

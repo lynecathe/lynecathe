@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Étudiante en Cybersécurité • Future Analyste SOC / DevSecOps</b><br/>
-  <b>Basée en France • Ouverte aux opportunités d'alternance à partir de Septembre 2025</b>
+  <b>Basée en France • Ouverte aux opportunités d'alternance à partir de Septembre 2026</b>
 </p>
 
 ---
@@ -65,14 +65,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lynecathe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lynecathe&theme=radical&show_icons=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynecathe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## 📈 GitHub Metrics
 

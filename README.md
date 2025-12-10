@@ -65,8 +65,7 @@
 
 ## 📈 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/lynecathe?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&introduction=1&introduction.title=true&calendar=1&config.timezone=Europe%2FParis)
-
+![Metrics](https://metrics.lecoq.io/lynecathe?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&languages=1&languages.limit=8&languages.sections=most-used&languages.
 ---
 
 ## 🎯 Objectifs à court terme
